@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Prints the name of the program
+ * main -> Prints the name of the program
  * @argc: Number of command line arguments
  * @argv: Array name
  * Return: 0
