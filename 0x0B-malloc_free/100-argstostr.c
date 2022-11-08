@@ -9,11 +9,12 @@
  */
 char *argstostr(int ac, char **av)
 {
-	int i, j, k, len;
-	char *str;
+	int i,
+	int j = 0;
+	int k = 0;
 
-	if (ac == 0 || av == NULL)
-	return (NULL);
+	len;
+	char *str;
 
 	if (ac == 0 || av == NULL)
 		return (NULL);
